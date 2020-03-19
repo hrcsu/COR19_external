@@ -1,0 +1,6 @@
+preprocess+segment
+train/validation/test split
+load_slice(combine mask and image) to npy
+slice stack
+train
+
